@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 | 📈 Geral & Commits | 💻 Linguagens Mais Usadas |
 | :---: | :---: |
 | ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Victor-Sousa-hub&show_icons=true&theme=radical&count_private=true) | ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Victor-Sousa-hub&layout=compact&theme=radical) |
-| [![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=Victor-Sousa-hub&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)| |
 
 
 ### 🛠 Tecnologias e Ferramentas
