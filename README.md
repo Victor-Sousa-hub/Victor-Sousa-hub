@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Victor-Sousa-hub&show_icons=true&theme=radical&count_private=true)
+## 📊 Estatísticas e Atividade
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Victor-Sousa-hub&layout=compact&theme=radical)
+| 📈 Geral & Commits | 💻 Linguagens Mais Usadas |
+| :---: | :---: |
+| ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Victor-Sousa-hub&show_icons=true&theme=radical&count_private=true) | ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Victor-Sousa-hub&layout=compact&theme=radical) |
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Victor-Sousa-hub&theme=radical) | |
 
 
 ### 🛠 Tecnologias e Ferramentas
